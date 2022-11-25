@@ -5,7 +5,7 @@ int main(void) {
     printf("Pfefferkörner\n");
     printf("Speck\n");
     printf("Sahne\n");
-    printf("Erdaepfel\n");
+    printf("Kartoffel\n");
     printf("Fisolen\n");
     return 0;
 }
